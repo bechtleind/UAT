@@ -9,7 +9,7 @@
     <script src='main.js'></script>
 </head>
 <body>
-    <h1 style="color: royalblue;">This is a sample webpage created by git team .</h1>
+    <h1 style="color: royalblue;">This is a sample webpage created by git team.</h1>
      <ol>
         <li>Ashraf sulthana</li>
          <li>Akhil Katari</li>
