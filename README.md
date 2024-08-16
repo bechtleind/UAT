@@ -11,13 +11,7 @@
 <body>
     <h1 style="color: royalblue;">This is a sample webpage created by git team.</h1>
      <ol>
-        <li>Ashraf sulthana</li>
-         <li>Akhil Katari</li>
-        <li> Bhaskarini Govardhan</li>
-         <li> Sucharitha Sathupalli </li>
-         <li> Mahesh Keshapogu </li>
-          <li> Dileep Andra1</li>
-         <li> batthula veerareddy </li>
+        <li>Gorla Satish</li>
     </ol>
 </body>
 </html>
